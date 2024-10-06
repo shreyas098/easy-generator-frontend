@@ -13,8 +13,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/shreyas098/easy-generator-frontend.git
+   cd easy-generator-frontend
    ```
 
 2. Install dependencies:
